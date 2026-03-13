@@ -3,7 +3,7 @@
 > *"When we try to pick out anything by itself, we find it hitched to everything else in the universe."*
 > — John Muir
 
-A web-based game powered by real ecological data from the **[Who Eats Whom](https://whoeats whom.net)** database. Drag animals onto a canvas, watch their feeding connections come alive — and discover what happens when you remove one.
+A web-based game powered by real ecological data from the **[Who Eats Whom](https://whoeatswhom.org/)** database. Drag animals onto a canvas, watch their feeding connections come alive — and discover what happens when you remove one.
 
 ---
 
