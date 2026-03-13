@@ -22,7 +22,7 @@ It's a game about interconnection. Every species is load-bearing.
 
 ## 🔬 The Science Behind It
 
-This project is an interactive extension of **[Who Eats Whom](https://whoeats whom.net)**, a planetary food web database founded by Dr. Bradley Allf and led technically by Dr. Aditi Mallavarapu at NC State University.
+This project is an interactive extension of **[Who Eats Whom](https://whoeatswhom.org/)**, a planetary food web database founded by Dr. Bradley Allf and led technically by Dr. Aditi Mallavarapu at NC State University.
 
 | | |
 |---|---|
